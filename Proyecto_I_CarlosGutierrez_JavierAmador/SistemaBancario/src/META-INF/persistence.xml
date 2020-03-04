@@ -7,6 +7,11 @@
     <class>sistemabancario.Logica.Usuario</class>
     <class>sistemabancario.Logica.Moneda</class>
     <class>sistemabancario.Logica.Cajero</class>
+    <class>sistemabancario.Logic.Currency</class>
+    <class>sistemabancario.Logic.Client</class>
+    <class>sistemabancario.Logic.Cashier</class>
+    <class>sistemabancario.Logic.Account</class>
+    <class>sistemabancario.Logic.Transaction</class>
     <properties>
       <property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/SistemaBancarioWeb?useTimezon=true&amp;serverTimezone=UTC&amp;user=root&amp;password=sk8element"/>
       <property name="javax.persistence.jdbc.user" value="root"/>
